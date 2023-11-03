@@ -1,0 +1,22 @@
+nav{
+    background: #e4e4e4;
+    box-shadow: 0 0 10px 2px #eeeeee;
+}
+
+.logo{
+    width: 75px;
+}
+
+#hero{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./material/praktykweuropie2023.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.galeria img{
+    background-color: orange;
+    border-radius: 20px;
+    box-shadow: 0 0 15px #000;
+}
